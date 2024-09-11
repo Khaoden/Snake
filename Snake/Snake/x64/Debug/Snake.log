@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\road\back\C++\base\Snake\Snake\main.cpp(62,14): warning C4101: “a”: 未引用的局部变量
+D:\road\back\C++\base\Snake\Snake\main.cpp(113,29): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Snake.vcxproj -> D:\road\back\C++\base\Snake\x64\Debug\Snake.exe
